@@ -3,3 +3,9 @@ devin:
   last_name: "Wieland"
   email: "devin@gmail.com"
   profile_name: "devinwieland"
+
+emily:
+  first_name: "Emily"
+  last_name: "Gutwein"
+  email: "emily@gmail.com"
+  profile_name: "ewieland"

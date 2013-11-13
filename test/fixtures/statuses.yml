@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: devin
+
+three:
+  content: "Hi I'm Emily"
+  user: emily
