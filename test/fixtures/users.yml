@@ -9,3 +9,9 @@ emily:
   last_name: "Gutwein"
   email: "emily@gmail.com"
   profile_name: "ewieland"
+
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@teamtreehouse.com"
+  profile_name: "mikethefrog"
